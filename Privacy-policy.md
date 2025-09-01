@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 1st Sept 2025
 
 This website (“Site”) is operated by GitHub user: Radaos. I respect your privacy and am committed to protecting it. This Privacy Policy outlines how information is handled on this Site.
 
